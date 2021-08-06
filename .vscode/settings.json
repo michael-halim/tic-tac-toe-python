@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 16,
+    "window.zoomLevel": 0,
+    "terminal.integrated.fontSize": 15,
+    "workbench.colorTheme": "Noctis Azureus",
+    "workbench.iconTheme": "material-icon-theme",
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": true
+}
